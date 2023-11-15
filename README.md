@@ -1,20 +1,22 @@
 # Instagram Clone Backend(Django)
 
-An Instagram clone project built with React and Django.
-Take a look at the [frontend]() for this project as well.
+This is the backend of the Instagram clone project, built using Django.
+
+Take a look at the [frontend](https://github.com/MahnoorMukhtar/instagram_clone_frontend-react-.git) for this project as well.
 
 ## Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
+- [Prerequisites](#prerequisites)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 
 ## Overview
 
-This project is an Instagram clone that replicates some of the basic features of the popular photo-sharing platform. It consists of a frontend built with React and a backend implemented with Django.
+This Django backend serves as the server-side component for the Instagram clone project. It handles user authentication, post management, and other core functionalities.
 
 ## Features
 
@@ -25,6 +27,13 @@ This project is an Instagram clone that replicates some of the basic features of
 - View other user's profile
 - Edit your own profile
 - Delete your own Posts
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- Python and pip installed
+- A database server (e.g., PostgreSQL, MySQL)
 
 ## Installation
 
