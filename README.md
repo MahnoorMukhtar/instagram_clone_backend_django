@@ -53,6 +53,6 @@ To run the project locally, follow these steps:
 ## Screenshots
 ![screen1](./screenshots/ss-welcome.png)
 ![screen2](./screenshots/ss-welcome2.png)
-![screen3](./screenshots/ss-profile page.png)
+![screen3](./screenshots/ss-profile-page.png)
 
 
