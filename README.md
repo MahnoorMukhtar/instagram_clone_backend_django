@@ -51,8 +51,13 @@ To run the project locally, follow these steps:
 - PostgreSQL (or your preferred database)
 
 ## Screenshots
+Welcome page
+
 ![screen1](./screenshots/ss-welcome.png)
 ![screen2](./screenshots/ss-welcome2.png)
+
+LoggedIn User Profile
+
 ![screen3](./screenshots/ss-profile-page.png)
 
 
