@@ -57,7 +57,7 @@ To run the project locally, follow these steps:
 
 - Python 
 - Django and Django Rest Framework
-- PostgreSQL (or your preferred database)
+- Sqlite (or your preferred database)
 
 ## Screenshots
 Welcome page
